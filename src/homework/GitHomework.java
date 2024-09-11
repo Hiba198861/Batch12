@@ -20,6 +20,12 @@ public class GitHomework {
 	}
 	
 	
+	public static void doors (int x, int y) {
+		System.out.println(x +y);
+	}
+	
+	
+	
 
 	
 	
