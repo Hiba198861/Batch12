@@ -19,6 +19,10 @@ public class GitHomework {
 	
 	public static void gender (char a, char b) {
 		System.out.println("a,b");
+
+		int age = 12;
+		String name = "John";
+		//This is coming from github
 	}
 	
 	
