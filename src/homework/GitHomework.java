@@ -28,6 +28,11 @@ public class GitHomework {
 	
 	public static void level (char c, char m) {
 		System.out.println("c,m");
+
+		int age = 12;
+		String name = "John";
+		//This is coming from github
+		
 	}
 	
 	
