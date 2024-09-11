@@ -15,5 +15,13 @@ public class GitHomework {
 	}
 	
 	
+	public static void level (char c, char m) {
+		System.out.println("c,m");
+	}
+	
+	
+
+	
+	
 
 }
